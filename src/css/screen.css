@@ -1,0 +1,43 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box-wrapper {
+  width: 100%;
+  max-width: 500px;
+  background-color: #2b7188;
+  opacity: 0.5;
+  color: aliceblue;
+  border-radius: 5px;
+}
+
+h2 {
+  text-align: center;
+}
+
+.img-1 {
+  width: 80px;
+  margin: 20px;
+  padding: 8px;
+}
+
+.img-2 {
+  text-align: center;
+  margin-left: 60px;
+}
+
+.row {
+  display: flex;
+}
+
+.circle {
+  width: 100%;
+  max-width: 125px;
+  border-radius: 50%;
+  border-color: #2fabd4;
+  background-color: #000000;
+  margin: 20px;
+  border-color: #2fabd4;
+}
